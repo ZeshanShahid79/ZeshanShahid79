@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=ZeshanShahid79)%5D(https://github.com/anuraghazra/github-readme-stats
+[![ZeshanShahid79's github stats](https://github-readme-stats.vercel.app/api?username=ZeshanShahid79)](https://github.com/anuraghazra/github-readme-stats)
+- macfrei username mit eurem vertauschen und commiten
