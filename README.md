@@ -15,5 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ZeshanShahid79's github stats](https://github-readme-stats.vercel.app/api?username=ZeshanShahid79)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align=center>
+🙋🏻‍♂️ Hi, I’m Zeshan!
+</h2>
+<p align=center>
+I live in Hamburg ⚓️, I am 28 years old 🧔🏻‍♂️ and I am currently learning coding 💻
+  </p>
+  <h1></h1>
+<p align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeshanShahid79&date_format=M%20j%5B%2C%20Y%5D" />
+    </p>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeshanShahid79" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeshanShahid79" />
+  </p>
+
 
