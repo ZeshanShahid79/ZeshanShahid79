@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h2 align=center>
-🙋🏻‍♂️ Hi, I’m Zeshan!
+ Hi, I’m Zeshan!
 </h2>
 <p align=center>
 I live in Hamburg ⚓️, I am 28 years old 🧔🏻‍♂️ and I am currently learning coding 💻
