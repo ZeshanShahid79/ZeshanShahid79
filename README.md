@@ -26,10 +26,6 @@ I live in Hamburg ⚓️, I am 29 years old 🧔🏻‍♂️ and I am currently
 <p align=center>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeshanShahid79&date_format=M%20j%5B%2C%20Y%5D" />
     </p>
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeshanShahid79" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeshanShahid79" />
-  </p>
 
 
