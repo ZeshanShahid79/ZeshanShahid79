@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 <p align=center>
 I live in Hamburg ⚓️, I am 29 years old 🧔🏻‍♂️ and I am currently learning coding 💻
   </p>
-  <h1></h1>
-<p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeshanShahid79&date_format=M%20j%5B%2C%20Y%5D" />
-    </p>
+
 
 
 
