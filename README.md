@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  Hi, I’m Zeshan!
 </h2>
 <p align=center>
-I live in Hamburg ⚓️, I am 29 years old 🧔🏻‍♂️ and I am currently learning coding 💻
+I live in Hamburg ⚓️, I am 29 years old 🧔🏻‍♂️ 💻
   </p>
 
 
